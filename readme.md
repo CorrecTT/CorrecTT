@@ -3,7 +3,7 @@
 - 🧑🏻 My name is : Tanakorn Camkerd
 - ⚡ Student id : 63362419
 - 👨🏻‍🎓 I'm currently studying on Faculty of Engineering.
-- 🏎 Interested career in the future : Software Engineering in Motorsport!
+- 🏎 Interested career in the future : Software Engineering in Motorsport! and Gamer(Steamer)
 - 📋 Interested subjects about Computer Engineering : Computer Networks , Database , Systems Engineering
 
 ## Developer Tech 💻
